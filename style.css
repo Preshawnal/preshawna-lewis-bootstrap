@@ -1,0 +1,22 @@
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(36, 148, 213)!important;
+}
+
+.btn-dark{
+    background-color: rgb(120, 146, 169);
+}
+
+h1 {
+    text-align: center;
+}
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(36, 148, 213);
+    margin-top: 25px;
+}
+    footer p {
+    margin-bottom: 0 !important;
+    }
+    
